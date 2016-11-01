@@ -8,8 +8,8 @@ tags: Study
 
 <!--more-->
 
-![图 1 ](http://7xpx1m.com1.z0.glb.clouddn.com/gh/007/01.jpg)
-![图 2 ](http://7xpx1m.com1.z0.glb.clouddn.com/gh/007/02.jpg)
-![图 3 ](http://7xpx1m.com1.z0.glb.clouddn.com/gh/007/03.jpg)
-![图 4 ](http://7xpx1m.com1.z0.glb.clouddn.com/gh/007/04.jpg)
-![图 5 ](http://7xpx1m.com1.z0.glb.clouddn.com/gh/007/05.jpg)
+![图 1 ](./01.jpg)
+![图 2 ](./02.jpg)
+![图 3 ](./03.jpg)
+![图 4 ](./04.jpg)
+![图 5 ](./05.jpg)
